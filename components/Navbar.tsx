@@ -21,7 +21,8 @@ export default function Navbar() {
           <Link href="#reviews" className="hover:text-yellow-500 transition-colors">Reviews</Link>
           <Link href="#contact" className="hover:text-yellow-500 transition-colors">Contact</Link>
           <Link
-            href="#contact"
+            href="https://wa.me/353857553436?text=Hi%20Des%2C%20I%27d%20like%20to%20get%20a%20free%20quote%20for%20flooring.%20Could%20you%20help%3F"
+            target="_blank"
             className="bg-yellow-600 hover:bg-yellow-500 text-black font-semibold px-5 py-2 rounded transition-colors"
           >
             Book Now
