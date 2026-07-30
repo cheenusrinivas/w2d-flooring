@@ -12,7 +12,20 @@ const inter = Inter({
 export const metadata: Metadata = {
   title: 'W2D Flooring & Carpets | Wicklow to Dublin | Des O\'Briens',
   description: 'Professional flooring and carpet installation across Wicklow and Dublin. Hardwood, vinyl, laminate, tiles and carpets. Free quotes available. Call 085 755 3436.',
-  keywords: 'flooring Dublin, carpet fitting Wicklow, hardwood flooring Dublin, vinyl flooring Wicklow, flooring installation Dublin, W2D flooring, Des O\'Briens flooring',
+  keywords: 'flooring Dublin, carpet fitting Wicklow, hardwood flooring Dublin, vinyl flooring Wicklow, flooring installation Dublin, W2D flooring',
+  openGraph: {
+    title: 'W2D Flooring & Carpets | Wicklow to Dublin',
+    description: 'Professional flooring and carpet installation across Wicklow and Dublin. Free quotes available. Call 085 755 3436.',
+    url: 'https://w2dflooring.netlify.app',
+    siteName: 'W2D Flooring & Carpets',
+    locale: 'en_IE',
+    type: 'website',
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'W2D Flooring & Carpets | Wicklow to Dublin',
+    description: 'Professional flooring and carpet installation across Wicklow and Dublin.',
+  },
 }
 
 export default function RootLayout({
