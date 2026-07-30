@@ -10,8 +10,9 @@ const inter = Inter({
 })
 
 export const metadata: Metadata = {
-  title: 'W2D Flooring & Carpets | Wicklow to Dublin',
-  description: 'Premium flooring and carpet installation across Wicklow and Dublin by Des O\'Briens W2D.',
+  title: 'W2D Flooring & Carpets | Wicklow to Dublin | Des O\'Briens',
+  description: 'Professional flooring and carpet installation across Wicklow and Dublin. Hardwood, vinyl, laminate, tiles and carpets. Free quotes available. Call 085 755 3436.',
+  keywords: 'flooring Dublin, carpet fitting Wicklow, hardwood flooring Dublin, vinyl flooring Wicklow, flooring installation Dublin, W2D flooring, Des O\'Briens flooring',
 }
 
 export default function RootLayout({
