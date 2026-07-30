@@ -51,6 +51,7 @@ export default function Contact() {
               <p>📞 <a href="tel:0857553436" className="hover:text-yellow-500 transition-colors">085 755 3436</a></p>
               <p>✉️ <a href="mailto:dob2019@outlook.com" className="hover:text-yellow-500 transition-colors">dob2019@outlook.com</a></p>
               <p>📍 Wicklow to Dublin</p>
+              <p>📸 <a href="https://www.instagram.com/w2d_flooring_carpets_" target="_blank" className="hover:text-yellow-500 transition-colors">@w2d_flooring_carpets_</a></p>
             </div>
             <div className="mt-10">
               <h3 className="text-xl font-bold text-white mb-4">Opening Hours</h3>
